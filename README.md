@@ -27,7 +27,9 @@ mandalay-sales-dashboard/
 ├── datasets
 
   ├── MandalayMap.json # Shape Map File (GIS)
+  
   ├── datasets # Sales - Mandalay - Electronic.xlsx # Raw dataset
+  
   ├── logo.png # logo
 
 ├── README.md # Project documentation
