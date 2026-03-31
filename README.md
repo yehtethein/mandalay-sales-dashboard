@@ -16,10 +16,27 @@ This project presents an electronic sales dashboard for the Mandalay Region.
 - Township-level insights
 
 
+mandalay-sales-dashboard/ 
+
+│ 
+
+├── Mandalay Electronic Sales Dashboard.pdf # Dashboard preview 
+
+├── Mandalay Electronic Sales Dashboard.pbix # PowerBI file
+
+├── datasets
+
+  ├── MandalayMap.json # Shape Map File (GIS)
+  ├── datasets # Sales - Mandalay - Electronic.xlsx # Raw dataset
+  ├── logo.png # logo
+
+├── README.md # Project documentation
+
+
 ## Tools Used
 - PowerBI
 - GIS
 - Data Visualization Techniques
 
-## 👤 Author
+## Author
 Ye Htet Hein | Data Enthusiasm
