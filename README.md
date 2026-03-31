@@ -24,13 +24,11 @@ mandalay-sales-dashboard/
 
 ├── Mandalay Electronic Sales Dashboard.pbix # PowerBI file
 
-├── datasets
-
-  ├── MandalayMap.json # Shape Map File (GIS)
+├── datasets  ├── MandalayMap.json # Shape Map File (GIS)
   
-  ├── datasets # Sales - Mandalay - Electronic.xlsx # Raw dataset
+├── datasets  ├── datasets # Sales - Mandalay - Electronic.xlsx # Raw dataset
   
-  ├── logo.png # logo
+├── datasets  ├── logo.png # logo
 
 ├── README.md # Project documentation
 
